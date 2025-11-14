@@ -103,22 +103,22 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\avcodec-58.dll">
-      <Link>Resources\avcodec-58.dll</Link>
+    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\avcodec-62.dll">
+      <Link>Resources\avcodec-62.dll</Link>
     </EmbeddedResource>
-    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\avformat-58.dll">
-      <Link>Resources\avformat-58.dll</Link>
+    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\avformat-62.dll">
+      <Link>Resources\avformat-62.dll</Link>
     </EmbeddedResource>
-    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\avutil-56.dll">
-      <Link>Resources\avutil-56.dll</Link>
+    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\avutil-60.dll">
+      <Link>Resources\avutil-60.dll</Link>
     </EmbeddedResource>
-    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\swresample-3.dll">
-      <Link>Resources\swresample-3.dll</Link>
+    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\swresample-6.dll">
+      <Link>Resources\swresample-6.dll</Link>
     </EmbeddedResource>
-    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\swscale-5.dll">
-      <Link>Resources\swscale-5.dll</Link>
+    <EmbeddedResource Include="..\FFmpegThumbnail\FFmpeg\bin\swscale-9.dll">
+      <Link>Resources\swscale-9.dll</Link>
     </EmbeddedResource>
-    <EmbeddedResource Include="..\x64\Release\FFmpegThumbnailProvider.dll">
+    <EmbeddedResource Include="..\ARM64\Release\FFmpegThumbnailProvider.dll">
       <Link>Resources\FFmpegThumbnailProvider.dll</Link>
     </EmbeddedResource>
     <Content Include="icon.ico" />
